@@ -1,0 +1,9 @@
+html,h1,h4,p,body,.card,.row, .container
+{
+    text-align: center;
+background-color: #6c757d;
+padding: 10px 5px;
+}
+.save{
+    margin: 15px 5px;
+}
